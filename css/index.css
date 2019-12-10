@@ -1,0 +1,137 @@
+#banner{height: 540px;}
+#homeFlexslider{ position: relative;}
+#homeFlexslider .slides{ height: 540px;}
+#homeFlexslider .slides li{ position: absolute;width: 100%;}
+#homeFlexslider .slides li a{ display: block; height: 540px;}
+#homeFlexslider .slideCir{ position: absolute; display: flex; background: rgba(0,0,0,0.3); bottom: 20px; left: 50%; padding: 4px 8px;border-radius:12px}
+#homeFlexslider .slideCir li{margin: 0 6px;border-radius: 50%; height: 12px; width: 12px;border-radius: 50%; background: #fff; opacity: 0.6; cursor: pointer;}
+#homeFlexslider .slideCir li.active{background: #db192a; opacity: 1;}
+#slide-leftBtn{position: absolute; left: 264px; top: 50%;}
+#slide-leftBtn::after{content: "\e929"; font-size: 40px; color: #fff; display: inline-block; text-align: center;}
+#slide-rightBtn{position: absolute; right: 120px; top: 50%;}
+#slide-rightBtn::after{content: "\e927"; font-size: 40px; color: #fff; display: inline-block; text-align: right; position: absolute;right: 0;}
+.slideBtn{ width: 30px; height: 60px; line-height: 60px; font-family: MyFontName; background: rgba(0,0,0,.4); color: rgba(0,0,0,0.8); opacity: 0; transition: linear 0.2s all; cursor: pointer;}
+.slideBtn:hover{background: rgba(0,0,0,.7);}
+#banner:hover .slideBtn{  opacity: 0.7;}
+#main{ background: #f5f5f5; overflow: hidden;}
+#main .brandShow{ display: flex; justify-content: space-between; }
+#hotBrand{ width: 876px;margin-top: 15px; background: #fff;}
+#hotBrand .hotBrand-title{ height: 60px; padding: 0 20px;}
+#hotBrand .hotBrand-title h3{ line-height: 60px; font-size: 20px; float: left;}
+#hotBrand .hotBrand-title ul{float: left; display: flex; margin: 18px 0 18px 18px;}
+#hotBrand .hotBrand-title ul li{ font-size: 12px; color: #666; height: 24px; line-height: 24px; background: #f2f2f2; border-radius: 2px; margin-right: 10px; padding: 0 10px; text-align: center; cursor: pointer;}
+#hotBrand .hotBrand-title ul li:hover{color: #db192a;}
+#hotBrand .hotBrand-title ul li.active{ background: #c00; color: #fff;}
+#hotBrand .hotBrand-container{ background: #f00;}
+#hotBrand .hotBrand-container .container-train{height: 300px; position: relative;}
+#hotBrand .hotBrand-container .container-train .container{position: absolute; width: 876px; height: 300px; background: #fff;} 
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-titlePic{ float: left; }
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-titlePic img{display: block; width: 238px; height: 300px;}
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-smList{ overflow: hidden; float: left; width: 636px; margin-left: 2px;}
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-smList .hotBrand-container-smPic{float: left; position: relative; width: 158px; height: 100px; border-top: 1px solid #eee; border-right: 1px solid #eee;}
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-smList .hotBrand-container-smPic .smPic-bg{width: 158px; height: 100px; position: absolute; left: 0; top: 0; display: flex; justify-content: center; align-items: center;}
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-smList .hotBrand-container-smPic .smPic-bg img{ width: 90%; max-height: 90%;}
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-smList .hotBrand-container-smPic .smPic-prev{ display: none; width: 158px; height: 100px; position: absolute; left: 0; top: 0; background: rgba(0,0,0,0.7);}
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-smList .hotBrand-container-smPic:hover .smPic-prev{ display: block;}
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-smList .hotBrand-container-smPic .smPic-prev .toShopBox{cursor: pointer;}
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-smList .hotBrand-container-smPic .smPic-prev .toShopName{ margin-top:30px; color: #fff; text-align: center;}
+#hotBrand .hotBrand-container .container-train .container .hotBrand-container-smList .hotBrand-container-smPic .smPic-prev .toShopBtn{margin-top: 10px; width: 80px; margin: 0 auto; margin-top: 20px; color: #fff; text-align: center; line-height: 25px; border-radius: 13px; background: crimson;}
+#personalInfo{ width: 260px; height: 322px; margin-top: 15px; background: #fff; padding: 20px;}
+#personalInfo figure img{display: block; height: 80px; width: 80px; border-radius: 50%;box-shadow: 0 2px 0 2px #f8f8f8; margin: 0 auto;}
+#personalInfo figure span{display: block; margin-top: 15px; text-align: center;}
+#personalInfo .btn-group{margin-top: 28px; display: flex; justify-content: space-between;}
+#personalInfo .btn-group a{padding: 2px 24px; border:  1px solid #222; border-radius: 2px;}
+#personalInfo .btn-group a.kadinbtn{background: #ce0000; color: #fff; margin: 0; border-color: #ce0000;}
+#personalInfo .kuaixun{ margin: 15px 0 5px; }
+#personalInfo p{font: 14px/2"";}
+#personalInfo .kuaixun label{ float: left;}
+#personalInfo .kuaixun a{ float: right;}
+#building{ margin-bottom: 80px;}
+#building .floor{ margin-top: 20px;}
+#building .floor .floor-title{height: 60px; padding: 0 20px; border-bottom: 1px solid #eee; background: #fff; line-height: 60px;}
+#building .floor .floor-title .floor-title-left{float: left;}
+#building .floor .floor-title .floor-title-left .floor-index{color:#fff;}
+#building .floor .floor-title .floor-title-left span{ display: block; height: 30px; width: 30px; font-size: 18px; margin-top: 15px; line-height: 30px; text-align: center; float: left;}
+#building .floor .floor-title .floor-title-left h3{ display: block;float: left; font: 20px/60px ""; padding: 0 10px;}
+#building .floor .floor-title .floor-title-left .title-aside{float: left; display: flex; width: 190px; justify-content: space-around;}
+#building .floor .floor-title .floor-title-left .title-aside li{ line-height: 60px;}
+#building .floor .floor-title .floor-title-right{float: right;}
+#building .floor .floor-title .floor-title-right .floor-tab-title{display: flex; justify-content: space-around; align-items: center; height: 60px;}
+#building .floor .floor-title .floor-title-right .floor-tab-title li{ min-width: 60px; padding: 0 10px; margin-right: 10px; height: 24px; line-height: 24px; text-align: center; background: #f2f2f2; cursor: pointer;}
+#building .floor .floor-title .floor-title-right .floor-tab-title li.active{ background: #C00; color:#fff;}
+#building .floor .floor-body .floor-main{ position: relative; width: 290px; height: 550px; background: #000; float: left;}
+#building .floor .floor-body .floor-main .floor-main-img{width: 290px; height: 550px;}
+#building .floor .floor-body .floor-main .floor-main-img a{ display: none;}
+#building .floor .floor-body .floor-main .floor-main-img a.active{ display: block;}
+#building .floor .floor-body .floor-main .floor-main-img img{width: 290px; height: 550px;}
+#building .floor .floor-body .floor-main .floor-main-button{ position: absolute; bottom: 15px; z-index: 10; left: 0;padding: 0 9px;}
+#building .floor .floor-body .floor-main .floor-main-button ul{ display: flex; flex-wrap: wrap;}
+#building .floor .floor-body .floor-main .floor-main-button ul li{ cursor: pointer; margin-left: 5px; width: 60px; height: 24px; ;line-height: 24px; text-align: center; background: rgba(255,255,255,0.6); margin-top: 10px;}
+#building .floor .floor-body .floor-main .floor-main-button ul li:hover{background: #fff;}
+#building .floor .floor-body .floor-main .floor-main-button ul li.active{background: #fff;}
+#building .floor .floor-body .floor-right{width: 910px; float: left; position: relative;}
+#building .floor .floor-body .floor-right .floor-right-box{ width: 910px; position: absolute; left: 0; top: 0; display: none;}
+#building .floor .floor-body .floor-right .floor-right-box.active{display: block;}
+#building .floor .floor-body .hotTop .floor-hot-list{width: 594px; margin: 0 17px; float: left;}
+#building .floor .floor-body .hotTop .floor-hot-list ul{display: flex; flex-wrap: wrap;}
+#building .floor .floor-body .hotTop .floor-hot-list ul li{margin: 0 1px 1px 0; height: 255px; width: 177px; padding: 10px; background: #fff;}
+#building .floor .floor-body .hotTop .floor-hot-list ul li .hot-list-img{width: 160px; height: 160px; padding-top: 10px;}
+#building .floor .floor-body .hotTop .floor-hot-list ul li .hot-list-img a{ display: block; width: 160px; height: 160px;}
+#building .floor .floor-body .hotTop .floor-hot-list ul li .hot-list-img a img{ display: block; width: 160px; height: 160px;}
+#building .floor .floor-body .hotTop .floor-hot-list ul li .list-name{height: 38px; overflow: hidden;}
+#building .floor .floor-body .hotTop .floor-hot-list ul li .list-price{font-size: 30px; color:#e50012;}
+#building .floor .floor-body .hotTop .floor-hot-list ul li .list-price .price-icon{font-size: 20px;}
+.price-icon{ font-family: arial;}
+#building .floor .floor-body .hotTop .floor-hot-list ul li .list-price .price-num{font-weight: 800;}
+#building .floor .floor-body .hotTop .floor-hot5{width: 282px; float: left;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-title{height: 38px;line-height: 38px;color: #fff;font-size: 16px;padding: 0 10px; }
+#building .floor .floor-body .hotTop .floor-hot5 .hot-img{ width: 100%; height: 160px;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot-img img{ width: 282px; height: 160px;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list{height: 348px; padding: 1px 10px; background: #fff;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li{padding: 8px 0 9px;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li .top-index{ float: left; height: 16px; width: 16px; color: #fff; font-size: 12px;line-height: 16px;text-align: center;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul .top5-top2 .top-index{ background: #c00; }
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li .top-info{ float: left; width: 246px;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li .top-info .top2-img{float: left; width: 88px; height: 88px; margin-left: 5px;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li .top-info .top2-img img{max-width: 88px;max-height: 88px;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li .top-info .top2-info{ float: left;margin-left: 5px; width: 148px;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li .top-info .top2-info .top2-name{margin-bottom: 5px; }
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li .top-info .top2-info .top2-price {color: #c00;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li .top-info .top2-info .top2-price .top2-price-icon{ font-size: 12px; margin-right: 3px;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul li .top-info .top2-info .top2-price .top2-price-num{ font-size: 14px; font-weight: 800;}
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul .top5-later3 .top-index{ background: #ccc; }
+#building .floor .floor-body .hotTop .floor-hot5 .hot5-list ul .top5-later3 .later3-name{ float: left;width: 240px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list{ margin-left: 12px;height: 558px; background: #fff; display: flex; flex-wrap: wrap;}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list li{width: 177px;height: 275px;border-right: 1px solid #f5f5f5;border-bottom: 1px solid #f5f5f5; box-sizing: border-box; margin: 0 1px 1px 0; padding: 10px;}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list li .list-img {width: 160px; height: 160px; padding-top: 10px;}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list li .list-img img{width: 160px; height: 160px;transition: .3s linear all;}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list li .list-img img:hover{transform: scale(1.1);}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list li .list-info {padding: 6px 0;}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list li .list-info .list-name{height: 38px; overflow: hidden;}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list li .list-info .list-price{color: #e50012;}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list li .list-info .list-price .price-icon{font-size: 16px;}
+#building .floor .floor-body .floor-right .floor-right-box .floor-right-list li .list-info .list-price .price-num{font-size: 24px;}
+
+#floorTrain{position: fixed; left: 50%; right: 50%; top: 50%; margin: -133px 0 0 -624px; width: 38px; height: 281px; z-index: 999; display: none;}
+#floorTrain .toFloors{ width: 100%;}
+#floorTrain .toFloors li{ width: 100%; background: #e8e8e8; height: 38px; margin-bottom: 1px; cursor: pointer;}
+#floorTrain .toFloors li span{ display: none; padding: 5px 1px; color: #fff; text-align: center; }
+#floorTrain .toFloors li i{display: block; text-align: center; line-height: 38px; font-size: 30px; text-align: center; font-family: MyFontName; color: #ccc; }
+#floorTrain .toFloors li.active span{ display: block;}
+#floorTrain .toFloors li.active i{display: none;}
+#floorTrain .toFloors li:hover i{color: #c00; }
+#floorTrain .toFloors li.active{background: #C00;}
+#floorTrain .toFloors li:nth-child(1) i::before{content: "\e949";}
+#floorTrain .toFloors li:nth-child(2) i::before{content: "\e953";}
+#floorTrain .toFloors li:nth-child(3) i::before{content: "\e956";}
+#floorTrain .toFloors li:nth-child(4) i::before{content: "\e957";}
+#floorTrain .toFloors li:nth-child(5) i::before{content: "\e94a";}
+#floorTrain .toTop { width: 100%; height: 38px; font-family: MyFontName; background: #e8e8e8; font-size: 30px; line-height: 38px; text-align: center; cursor: pointer; margin-top: 50px;}
+#floorTrain .toTop::before{content: "\e94d";}
+#floorTrain .toTop:hover{color: #c00;}
+
+#floor1 .hot5-title,#floor1 .floor-title-left .floor-index{background: #3B819D;}
+#floor2 .hot5-title,#floor2 .floor-title-left .floor-index{background: #662D72;}
+#floor3 .hot5-title,#floor3 .floor-title-left .floor-index{background: #B23407;}
+#floor4 .hot5-title,#floor4 .floor-title-left .floor-index{background: #3EA05C;}
+#floor5 .hot5-title,#floor5 .floor-title-left .floor-index{background: #A0643E;}

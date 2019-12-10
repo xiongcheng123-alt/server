@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>商品列表</title>
+    <link rel="stylesheet" href="./css/public.css">
+    <link rel="stylesheet" href="./css/project.css">
+    <link rel="stylesheet" href="./css/goodsList.css">
+</head>
+
+<body>
+    <header></header>
+    <section id="main">
+        <div class="global-center">
+            <div id="goodsList">
+                <ul class="productLists">
+                </ul>
+            </div>
+        </div>
+    </section>
+    <footer></footer>
+</body>
+
+<script src="./libs/ajax.js"></script>
+<script src="./libs/cookie.js"></script>
+<script src="./libs/jquery.js"></script>
+<script>
+    $("header").load("http://localhost/MyProject/public.html #header");
+    $("footer").load("http://localhost/MyProject/public.html #footer");
+</script>
+<script src="./js/public.js"></script>
+<script src="./js/goodsList.js"></script>
+
+</html>

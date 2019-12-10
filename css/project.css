@@ -1,0 +1,119 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: MyFontName;
+    src: url(./fonts/bzicomoon.ttf)
+}
+a{cursor: pointer;}
+body{overflow-x: hidden;}
+.global-center{ width: 1200px; margin: 0 auto;}
+.global-link:hover{color: #ce0000 !important}
+.global-link{cursor: pointer;}
+.global-link.active{color: #ce0000 !important}
+header{height: 197px; padding-bottom: 10px;}
+#top{ height: 30px; background: #f5f5f5;}
+#top-left{float: left; padding:6px 0; height: 18px;}
+#locate{ float: left;}
+#locate .locate-icon{font-family:MyFontName;}
+#locate .locate-icon::before{content: "\e944"; color: #ce0000;}
+#locate span{ color: #999; }
+#welcome{float: left; margin-left: 15px; color: #999;}
+.toLogin:hover,.toRegister:hover{ color: #e30b20;}
+#top-right{float: right; height:30px;}
+#top-right .top-drop{ float: left; padding: 6px 12px; height: 18px;cursor: pointer;position: relative;}
+#top-right .top-drop:hover{background: #fff;}
+#top-right .top-drop .top-more{display:none; position: absolute; z-index: 10; left: 0;top: 30px;box-shadow: 1px 3px 2px #ccc, -1px 0 2px #ccc;; text-align: center; background: #fff}
+#top-right .top-drop:hover .top-more{display: block;}
+#top-right .top-drop .top-more li{ width: 70px; cursor: pointer; padding: 6px 10px;  text-align: left;}
+#top-right .top-drop .top-more li:hover{background: #f5f5f5;}
+#top-right .top-drop .top-more li a:hover{color:#e30b20};
+#top-right .top-drop .top-more img{width: 79px; height: 94px; margin: 6px 6px 0;}
+#top-right .top-pipe{float: left; padding: 6px 0;}
+#top-right .icon-down{font-family:MyFontName; padding-left: 6px;}
+#top-right .icon-down::before{content: "\e947";}
+#top-right .top-drop{color: #999; display: flex;}
+#top-right .top-drop:nth-child(3){color: #c00;}
+
+#head-left-box{float: left;}
+#head-left-box .leftLogo{width: 228px; height: 75px; padding: 20px 0; float: left;}
+#head-right-box{float: right; height: 115px;}
+#head-right-box .search {float: left;; margin-top: 25px; font-size: 14px;}
+#head-right-box .search .searchBox{ width: 526px; border: 2px solid #c00}
+#head-right-box .search .searchBox .selectBtn{float: left;width: 80px;}
+#head-right-box .search .searchBox .selectBtn dl{ border-right:  2px solid #c00; width: 80px; position: relative;}
+#head-right-box .search .searchBox .selectBtn dl dt{height: 36px; line-height: 36px; background: #f5f5f5; padding-left: 10px;}
+#head-right-box .search .searchBox .selectBtn dl dd{display: none;position: absolute;left:-2px; top: 36px;background: #fff;border-bottom:  2px solid #c00;}
+#head-right-box .search .searchBox .selectBtn dl dd a{ display: block; width: 70px; padding-left: 10px; line-height: 22px; height: 22px; border-left:  2px solid #c00;border-right:  2px solid #c00;}
+#head-right-box .search .searchBox .selectBtn dl dd a:hover{color: #c00;}
+#head-right-box .search .searchBox .selectBtn dl dd a.selected{color: #c00;}
+#head-right-box .search .searchBox .selectBtn dl:hover dd{display: block;}
+#head-right-box .search .searchBox .selectBtn .icon-down{font-family:MyFontName; padding-left: 6px; color: #999;}
+#head-right-box .search .searchBox .selectBtn .icon-down::before{content: "\e947";}
+#head-right-box .search .searchBox .searchInput{ float: left; width: 368px;}
+#head-right-box .search .searchBox .searchInput input{ width: 350px;margin-left: 10px; border: none; outline: none;height: 20px; padding: 8px 0;}
+#head-right-box .search .searchBox .searchBtn{ cursor: pointer; float: left; height: 36px; width: 78px; background: #c00;}
+#head-right-box .search .searchBox .searchBtn span{display: block; width: 100%;height: 100%;color: #fff; text-align: center;font-size: 16px; line-height: 36px;}
+#head-right-box .search .fast-search{ margin-top: 10px;}
+#head-right-box .search .fast-search ul{ font-size: 12px;}
+#head-right-box .search .fast-search ul li{ float: left; margin-left: 20px;}
+#head-right-box .search .fast-search ul li a{color: #999;}
+#head-right-box .search .fast-search ul li:first-child{color: #c00; margin-left: 0;}
+#head-right-box .carBtn{ float: left; margin: 25px 0 0 25px; width: 130px; height: 38px;  position: relative; background: #fafafa; border:1px solid #eaeaea;}
+#head-right-box .carBtn .toCar{height: 38px; position: absolute; z-index: 1; width: 100%;}
+#head-right-box .carBtn .toCar a{ display: block;padding-left: 16px; color: #c00; height: 38px;}
+#head-right-box .carBtn .toCar a .icon-car{font-family: MyFontName;line-height: 38px;}
+#head-right-box .carBtn .toCar a .icon-car::before{content: "\e948"; }
+#head-right-box .carBtn .toCar a .carBtn-text{ display: inline-block;width: 50px; margin-left: 8px;}
+#head-right-box .carBtn .toCar a .carNum{position: absolute; top: -5px; width: 24px; height: 20px;background: url(../images/car.png) no-repeat; background-position: -24px 0; text-align: center; line-height: 20px ; color: #fff;} 
+#head-right-box .carBtn .toCar a .icon-select{position: absolute; right: 15px; height: 13px; margin-top: 14px; width: 13px; background: url(../images/car.png) no-repeat; background-position: -50px -4px;}
+#head-right-box .carBtn:hover .toCar a .icon-select{ background-position: -66px -4px;}
+#head-right-box .carBtn:hover .toCar{ background: #fff;}
+#head-right-box .carBtn .head-carList{ display: none; width: 320px; position: absolute;background: #fff; top: 37px; border: 1px solid #e5e5e5;right: -1px;}
+#head-right-box .carBtn:hover .head-carList{display: block;}
+#head-right-box .carBtn .head-carList .carList-scroll{overflow-y: scroll; max-height: 380px;}
+#head-right-box .carBtn .head-carList .carList ul li{ padding: 10px; cursor: pointer;}
+#head-right-box .carBtn .head-carList .carList ul li:hover{background:#f5f5f5;}
+#head-right-box .carBtn .head-carList .carList ul li span{ margin-left: 10px;}
+
+#nav{border-bottom: 2px solid #e60012; margin-top: 20px;}
+#nav .navMain{display: flex;}
+#nav .navMain .navMain-li{padding:0 20px; width: 100px; text-align: center; height: 40px;font-size: 16px; }
+#nav .navMain .navMain-li .nav-title{ line-height: 40px;}
+#nav .navMain .navMain-li .navMain-link{ display: block;  color: #191919;}
+#nav .navMain .navMain-li .navMain-link:hover{color: #c00;}
+#nav .navMain .navMain-li .navMain-All{cursor: pointer;width: 192px; padding: 0 20px;}
+#nav .navMain .nav-sm{ padding:0; width:212px ;background: #c00 url(../images/img_downdrt_nav.png) no-repeat 180px 16px ; text-align: left; color: #fff; }
+#nav .navMain .nav-sm .nav-sm-list{ background: rgba(245,245,245,.95); padding-top: 8px;position: relative; z-index: 10; height: 534px;}
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro{ padding: 6px 0;}
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro:hover{background: #fff;}
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro .nav-sm-title{font-size: 16px; padding: 0 18px; line-height: 35px; }
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro .nav-sm-content{padding: 0 12px;}
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro .nav-sm-content a{margin: 1px 4px; font-size: 12px; color:#666; display: inline-block;}
+
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro .nav-sm-right{display: none; height: 540px; width: 710px; left:212px;position: absolute; top: 2px; background: rgba(245,245,245,.95);} 
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro:hover .nav-sm-right{display: block;}
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro .nav-sm-right .type-title{width: 120px; float: left; padding-top: 14px; font-size: 14px;color: #666; text-align: center;}
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro .nav-sm-right .type-lists{width: 580px; float: right; padding: 10px 0; border-top: 1px dashed #ccc;}
+#nav .navMain .nav-sm .nav-sm-list .nav-sm-pro .nav-sm-right .type-lists a{ padding: 5px 12px 5px 0; display: inline-block; font-size: 12px;}
+
+
+
+
+footer{border-top: 2px solid #ccc;background: #fafafa;}
+footer .help-list{ margin-top: 30px;}
+footer .help-list ul{display: flex; justify-content: space-around;}
+footer .help-list ul li dl dt{ font: 900 14px/3 "";}
+footer .help-list ul li dl dd{ line-height: 20px;}
+footer .footerMain{overflow: hidden; border-top: 1px solid #E5E5E5; margin-top: 30px;}
+footer .footerMain .g-footerLeft{float: left; width: 700px; margin-top: 20px;}
+footer .footerMain .g-footerLeft .u-sellSure p{padding:10px 0;}
+footer .footerMain .g-footerLeft .mod_copyright_auth{ margin-top: 35px;}
+footer .footerMain .g-footerLeft .mod_copyright_links{ padding: 30px 0;}
+footer .footerMain .g-footerLeft .mod_copyright_links .mod_copyright_split{ margin: 0 10px;}
+footer .footerMain .g-footerRight{float: right; width: 490px; margin-top: 20px;}
+footer .footerMain .g-footerRight .g-twoCode{overflow: hidden; margin: 30px 30px 0;}
+footer .footerMain .g-footerRight .g-twoCode li{float: left; width: 114px; margin-right: 20px;}
+footer .footerMain .g-footerRight .g-twoCode li span{ width: 100px; text-align: center; display: block;}
+footer .footerMain .g-footerRight .g-twoCode .u-sellSure{width: 100%; margin-top: 40px; line-height: 22px;}
+
+

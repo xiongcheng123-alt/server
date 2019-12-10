@@ -1,0 +1,71 @@
+#nav .navMain .nav-sm .nav-sm-list{display: none;}
+#nav .navMain .nav-sm:hover .nav-sm-list{display: block;}
+
+#main{margin-top: 50px;}
+#product-intro{ overflow: hidden; }
+#product-intro .product-content-left{float: left; width: 353px;}
+#product-intro .product-content-left .bigImg{width: 353px; height: 353px;border: 1px solid #ddd; position: relative;}
+#product-intro .product-content-left .bigImg img{width: 353px; height: 353px;}
+#product-intro .product-content-left .bigImg .right-view{width: 353px; height: 353px; position: absolute; left: 370px; top: 0; overflow: hidden; border: 1px solid #ddd; display: none;}
+#product-intro .product-content-left .bigImg:hover .right-view{display: block;}
+#product-intro .product-content-left .bigImg .glass{position: absolute; top: 0; left: 0; width: 200px; height: 200px; background: rgba(100, 100, 100, 0.4); display: none;}
+#product-intro .product-content-left .bigImg:hover .glass{display: block;}
+#product-intro .product-content-left .bigImg .right-view img{position: absolute; width: 623px; height: 623px;}
+#product-intro .product-content-left .smallImg{ margin-top: 10px;}
+#product-intro .product-content-left .smallImg ul{ display: flex;}
+#product-intro .product-content-left .smallImg ul li{ width: 60px; height: 60px; margin-right: 8px; border: 1px solid #fff;}
+#product-intro .product-content-left .smallImg ul li img{ width: 60px; height: 60px;}
+#product-intro .product-content-left .smallImg ul li.active{border-color: #c00;}
+#product-intro .product-content-right{ float:left; margin-left: 20px; width: 540px;}
+#product-intro .product-content-right .productName p{font: 800 30px/2 "";}
+#product-intro .product-content-right .productPrice{ width: 540px; height: 120px; background: url(../images/product.jpg) no-repeat; margin-top: 50px; font-family: MyFontName;}
+#product-intro .product-content-right .productPrice p{display: inline-block; width: 80px; margin-left: 20px; line-height: 40px; margin-top: 5px;}
+#product-intro .product-content-right .productPrice .marketPrice span{color: #666; text-decoration: line-through; font-size: 16px;}
+#product-intro .product-content-right .productPrice .nowPrice span{color: #c00; font-size: 24px; font-weight: 800;}
+#product-intro .product-content-right .oprate{ margin-top: 10px;}
+#product-intro .product-content-right .oprate .shopCarNum .dt{ float: left; line-height: 30px;}
+#product-intro .product-content-right .oprate .shopCarNum .dt-number{height: 30px;}
+#product-intro .product-content-right .oprate .shopCarNum .tb-stock{display: inline-block; width: 120px; height:30px; border: 1px solid #ccc;}
+#product-intro .product-content-right .oprate .shopCarNum .tb-stock a{float: left;width: 30px; height: 30px; background: url(../images/add_math.png) no-repeat; box-sizing: border-box; cursor: pointer; }
+#product-intro .product-content-right .oprate .shopCarNum .tb-stock a#decNum{float: left;width: 30px; height: 30px;background-position: 8px 0;border-right: 1px solid #ccc;}
+#product-intro .product-content-right .oprate .shopCarNum .tb-stock a#addNum{float: left;width: 30px; height: 30px;background-position: -40px 0;border-left: 1px solid #ccc;}
+#product-intro .product-content-right .oprate .shopCarNum .tb-stock input{float: left; width: 60px;text-align: center;outline: none;height: 26px; line-height: 30px;border-style: none;}
+#product-intro .product-content-right .oprate .shopCarNum .last{float: left; color: #666; margin-left: 20px;}
+#product-intro .product-content-right .oprate .addShopCar{ margin-top: 30px;}
+#product-intro .product-content-right .oprate .addShopCar a{ display: block; width: 158px; height: 38px; font: 16px/38px MyFontName; cursor: pointer; color: #e30b20; border: 1px solid #c00; text-align: center;}
+#product-intro .product-content-right .oprate .addShopCar a:hover{ background: rgba(255, 0, 0, 0.116);}
+#product-intro .product-content-right .oprate .addShopCar a i::before{ content: "\e948";}
+#product-information{margin-top: 20px;}
+#product-information .storeInfo{float: left; width: 280px; height: 152px; border: 1px solid #e5e5e5;}
+#product-information .storeInfo .myStore{padding: 5px; overflow: hidden; height: 90px;}
+#product-information .storeInfo .myStore .storeImg{ float: left;}
+#product-information .storeInfo .myStore .storeImg img{ width: 80px; height: 80px;}
+#product-information .storeInfo .myStore .storeName{ float: left; height:20px;}
+#product-information .storeInfo .myStore .storeName .storeNameText{ font-weight: 800; font-size: 16px; margin-left: 5px;}
+#product-information .storeInfo .myStore .storeName .storeIcon{ font-family: MyFontName; color: #c00; font-size: 32px; position: relative; top:9px;}
+#product-information .storeInfo .myStore .storeName .storeIcon::before{ content: "\e952";}
+#product-information .storeInfo .store-oprate{ border-top: 1px solid #e5e5e5; background: #f5f5f5; display: flex; height: 61px; display: flex; justify-content:space-around; align-items:  center;  }
+#product-information .storeInfo .store-oprate a{ width: 88px; height: 28px; line-height: 28px; text-align: center;border-radius: 4px; }
+#product-information .storeInfo .store-oprate .addStore{ color: #c00; border: 1px solid #c00; background: #fff;}
+#product-information .storeInfo .store-oprate .toStore{ color: #666; border: 1px solid #e5e5e5; background: #fff;}
+#product-information .productAllInfo{ float: left; width: 900px; margin-left: 10px; border: 1px solid #e5e5e5;}
+#product-information .productAllInfo .information-title{position:sticky; top: 0; height: 40px; background: #f5f5f5;}
+#product-information .productAllInfo .information-title ul{ display: flex;}
+#product-information .productAllInfo .information-title ul li{ width: 110px; height: 40px; }
+#product-information .productAllInfo .information-title ul li a{ display: block; line-height: 40px; text-align: center; width: 110px; height: 40px; }
+#product-information .productAllInfo .information-title ul li a.active{ background: #c00; color: #fff !important;}
+#information-img {padding-top: 20px;}
+#information-img img{ display: block; margin: 0 auto;}
+#after-sale .after-sale-title{height: 40px; background: #f5f5f5; border: 1px solid #e5e5e5;}
+#after-sale .after-sale-title p{ line-height: 40px;  width: 110px; text-align: center; color: #666; font-size: 14px;}
+#after-sale img{ width: 900px;}
+
+
+
+
+
+
+
+
+
+

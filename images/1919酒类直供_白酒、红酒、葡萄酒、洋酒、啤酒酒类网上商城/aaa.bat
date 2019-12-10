@@ -1,0 +1,1 @@
+ ren *.octet_stream *.jpeg，

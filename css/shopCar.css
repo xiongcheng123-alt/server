@@ -1,0 +1,50 @@
+#nav .navMain .nav-sm .nav-sm-list{display: none;}
+#nav .navMain .nav-sm:hover .nav-sm-list{display: block;}
+
+#shopCar-title { height: 42px; line-height: 42px; border: 1px solid #eee; background: #f5f5f5; margin: 20px 0; padding:0 20px;color: #666; text-align: left; }
+#shopCar-title span{ display: inline-block;}
+#shopCar-title .th-checkAll{width:120px;  display: inline-block;}
+#shopCar-title .th-checkAll input{width: 12px; height: 12px; display: inline-block; vertical-align: middle;}
+#shopCar-title .th-goods{width: 330px;}
+#shopCar-title .th-price{width: 190px;}
+#shopCar-title .th-number{width: 220px;}
+#shopCar-title .th-total{width: 200px;}
+#shopCar-list {border-top: 1px solid #eee;}
+#shopCar-list ul li{margin-bottom: 0; border: 1px solid #eee; border-top: none; height: 80px; padding: 15px 55px 15px 20px; background: #fff;}
+#shopCar-list ul li dd{float: left;}
+#shopCar-list ul li  .image{margin-left: 10px;}
+#shopCar-list ul li  .image img{ width: 80px; height: 80px;}
+#shopCar-list ul li  .information{margin-left: 10px; width: 320px;}
+#shopCar-list ul li  .price{margin-left: 5px; width: 150px;text-indent: 10px;font-family: MyFontName;}
+#shopCar-list ul li  .information{margin-left: 10px; width: 320px;}
+#shopCar-list ul li  .number{margin-left: 10px; text-align: center;}
+#shopCar-list ul li  .number .tb-stock{display: inline-block; width: 120px; height:30px; border: 1px solid #ccc;}
+#shopCar-list ul li  .number .tb-stock a{float: left;width: 30px; height: 30px; background: url(../images/add_math.png) no-repeat; box-sizing: border-box; cursor: pointer; }
+#shopCar-list ul li  .number .tb-stock a.decNum{float: left;width: 30px; height: 30px;background-position: 8px 0;border-right: 1px solid #ccc;}
+#shopCar-list ul li  .number .tb-stock a.addNum{float: left;width: 30px; height: 30px;background-position: -40px 0;border-left: 1px solid #ccc;}
+#shopCar-list ul li  .number .tb-stock input{float: left; width: 60px;text-align: center;outline: none;height: 26px; line-height: 30px;border-style: none;}
+#shopCar-list ul li  .totalnum{margin-left: 160px; width: 150px; }
+#shopCar-list ul li  .totalnum span {font-family: MyFontName;font-size: 14px;color: #e30b20;}
+#shopCar-list ul li  .totalnum span i{font-weight: 800;}
+#shopCar-list ul li  .oprate{margin-left:60px;}
+#shopCar-list ul li  .oprate{ cursor: pointer;}
+#shopCar-foot{ height: 58px; line-height: 58px; border: 1px solid #eee; background: #f5f5f5; margin: 10px 0 150px; padding-left: 20px;color: #666; }
+#shopCar-foot span{ display: inline-block;}
+#shopCar-foot .tf-checkAll{width:60px;  display: inline-block;}
+#shopCar-foot .tf-checkAll input{width: 12px; height: 12px; display: inline-block; vertical-align: middle;}
+#shopCar-foot .tf-delSel{ width: 600px;}
+#shopCar-foot .tf-totalNum .totalNumber {font-weight: 800; color: #e30b20;}
+#shopCar-foot .tf-totalPrice{ margin-left: 100px;}
+#shopCar-foot .tf-totalPrice .totalPrice{font:800 14px/1 MyFontName; color: #e30b20;}
+#shopCar-foot .tf-toPay{ float:right; background: #e30b20; width: 120px; font: 800 24px/58px ""; color: #fff; text-align: center; cursor: pointer;}
+
+
+
+
+
+
+
+
+
+
+
