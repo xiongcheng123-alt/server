@@ -1,0 +1,230 @@
+{
+    "wine": [
+        {
+            "id": 1,
+            "type": "白酒",
+            "titlePic": "./images/240x300_白酒.jpg",
+            "hotBrand": [
+                {
+                    "name": "金沙",
+                    "brandPic": "./images/jinsha.jpg"
+                },
+                {
+                    "name": "全兴",
+                    "brandPic": "./images/quanxing.jpg"
+                },
+                {
+                    "name": "国之娇子",
+                    "brandPic": "./images/guozhijiaozi.jpg"
+                },
+                {
+                    "name": "习酒",
+                    "brandPic": "./images/guizhouxijiu.jpg"
+                },
+                {
+                    "name": "西凤",
+                    "brandPic": "./images/xifeng.jpg"
+                },
+                {
+                    "name": "一道泓",
+                    "brandPic": "./images/yidaohong.jpg"
+                },
+                {
+                    "name": "黔酒",
+                    "brandPic": "./images/qianjiu.jpg"
+                },
+                {
+                    "name": "红星",
+                    "brandPic": "./images/hongxing.jpg"
+                },
+                {
+                    "name": "泸州老窖",
+                    "brandPic": "./images/luzhoulaojiao.jpg"
+                },
+                {
+                    "name": "酒鬼",
+                    "brandPic": "./images/jiugui.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "葡萄酒",
+            "titlePic": "./images/品牌街葡萄酒.jpg",
+            "hotBrand": [
+                {
+                    "name": "拉菲",
+                    "brandPic": "./images/lafei.jpg"
+                },
+                {
+                    "name": "杰卡斯",
+                    "brandPic": "./images/jiekasi.jpg"
+                },
+                {
+                    "name": "黄尾袋鼠",
+                    "brandPic": "./images/huangweidaishu.jpg"
+                },
+                {
+                    "name": "小企鹅",
+                    "brandPic": "./images/xiaoqie.jpg"
+                },
+                {
+                    "name": "拉维亭",
+                    "brandPic": "./images/laweiting.jpg"
+                },
+                {
+                    "name": "红魔鬼",
+                    "brandPic": "./images/hongmogui.jpg"
+                },
+                {
+                    "name": "长城",
+                    "brandPic": "./images/changcheng.jpg"
+                },
+                {
+                    "name": "张裕",
+                    "brandPic": "./images/zhangyu.jpg"
+                },
+                {
+                    "name": "守望堡",
+                    "brandPic": "./images/shouwangbao.jpg"
+                },
+                {
+                    "name": "禾富",
+                    "brandPic": "./images/hefu.jpg"
+                },
+                {
+                    "name": "梦陇",
+                    "brandPic": "./images/menglong.jpg"
+                },
+                {
+                    "name": "木桐",
+                    "brandPic": "./images/mutong.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "type": "洋酒",
+            "titlePic": "./images/240x300_洋酒.jpg",
+            "hotBrand": [
+                {
+                    "name": "深蓝",
+                    "brandPic": "./images/shenlan.jpg"
+                },
+                {
+                    "name": "芝华士",
+                    "brandPic": "./images/zhihuashi.jpg"
+                },
+                {
+                    "name": "人头马",
+                    "brandPic": "./images/rentouma.jpg"
+                },
+                {
+                    "name": "格兰菲迪",
+                    "brandPic": "./images/gelanfeidi.jpg"
+                },
+                {
+                    "name": "百龄坛",
+                    "brandPic": "./images/bailingtan.jpg"
+                },
+                {
+                    "name": "皇家礼炮",
+                    "brandPic": "./images/huangjialipao.jpg"
+                },
+                {
+                    "name": "温莎",
+                    "brandPic": "./images/wensha.jpg"
+                },
+                {
+                    "name": "尊尼获加",
+                    "brandPic": "./images/zunnihuojia.jpg"
+                },
+                {
+                    "name": "杰克丹尼",
+                    "brandPic": "./images/jiekedanni.jpg"
+                },
+                {
+                    "name": "百加得",
+                    "brandPic": "./images/baijiade.jpg"
+                },
+                {
+                    "name": "帝王",
+                    "brandPic": "./images/diwang.jpg"
+                },
+                {
+                    "name": "轩尼诗",
+                    "brandPic": "./images/xuannishi.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "type": "啤酒",
+            "titlePic": "./images/240x300_啤酒.jpg",
+            "hotBrand": [
+                {
+                    "name": "瓦伦丁",
+                    "brandPic": "./images/walunding.jpg"
+                },
+                {
+                    "name": "科罗娜",
+                    "brandPic": "./images/keluona.jpg"
+                },
+                {
+                    "name": "1664",
+                    "brandPic": "./images/1664.jpg"
+                },
+                {
+                    "name": "凯尔特人",
+                    "brandPic": "./images/kaierteren.jpg"
+                },
+                {
+                    "name": "开巴",
+                    "brandPic": "./images/kaiba.jpg"
+                },
+                {
+                    "name": "德拉克",
+                    "brandPic": "./images/delake.jpg"
+                },
+                {
+                    "name": "嘉士伯",
+                    "brandPic": "./images/jiashibo.jpg"
+                },
+                {
+                    "name": "凯撒Kaiserdom",
+                    "brandPic": "./images/kaisa.jpg"
+                },
+                {
+                    "name": "粉象",
+                    "brandPic": "./images/fenxiang.jpg"
+                },
+                {
+                    "name": "豪铂熊",
+                    "brandPic": "./images/haoboxiong.jpg"
+                },
+                {
+                    "name": "督威",
+                    "brandPic": "./images/duwei.jpg"
+                },
+                {
+                    "name": "罗斯夫",
+                    "brandPic": "./images/luosifu.jpg"
+                }
+            ]
+        }
+    ],
+    "kuaixun": [
+        {
+            "title": "【提醒】1919提醒您防电信诈骗1",
+            "link":""
+        },
+        {
+            "title": "【精选】必强爆款-热卖好货燥起来！",
+            "link":""
+        },
+        {
+            "title": "【促销】年货节，大牌好酒1元抢！",
+            "link":""
+        }
+    ]
+}

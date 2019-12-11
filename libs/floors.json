@@ -1,0 +1,1145 @@
+[
+    {
+        "id": 1,
+        "name": "白酒",
+        "aside": [
+            "贵州",
+            "四川",
+            "北京",
+            "山西",
+            "河南"
+        ],
+        "allType": [
+            "热推",
+            "酱香型",
+            "浓香型",
+            "清香型"
+        ],
+        "mainPic": [
+            {
+                "name": "茅台",
+                "pic": "./images/floor1_main1.jpg",
+                "url": ""
+            },
+            {
+                "name": "五粮液",
+                "pic": "./images/floor1_main2.jpg",
+                "url": ""
+            },
+            {
+                "name": "剑南春",
+                "pic": "./images/floor1_main3.jpg",
+                "url": ""
+            },
+            {
+                "name": "泸州老窖",
+                "pic": "./images/floor1_main4.jpg",
+                "url": ""
+            },
+            {
+                "name": "金沙",
+                "pic": "./images/floor1_main5.jpg",
+                "url": ""
+            },
+            {
+                "name": "水井坊",
+                "pic": "./images/floor1_main6.jpg",
+                "url": ""
+            },
+            {
+                "name": "郎酒",
+                "pic": "./images/floor1_main7.jpg",
+                "url": ""
+            },
+            {
+                "name": "洋河",
+                "pic": "./images/floor1_main8.jpg",
+                "url": ""
+            }
+        ],
+        "mainList": [
+            {
+                "imgs": "./images/main_list_xiaojiaolou.jpg",
+                "name": "52度小角楼百年人生460ml",
+                "price": "83.7"
+            },
+            {
+                "imgs": "./images/main_list_guanyu.jpg",
+                "name": "【新品】52度国美桃园三英（关羽）500ml",
+                "price": "284.3"
+            },
+            {
+                "imgs": "./images/main_list_shuijingfang.jpg",
+                "name": "52度水井坊臻酿八号500ml",
+                "price": "359"
+            },
+            {
+                "imgs": "./images/main_list_langjiu.jpg",
+                "name": "53度红花郎（10）500ML",
+                "price": "448.3"
+            },
+            {
+                "imgs": "./images/main_list_maotaiyingbin.jpg",
+                "name": "53度茅台迎宾酒500ml",
+                "price": "123.3"
+            },
+            {
+                "imgs": "./images/main_list_shede.jpg",
+                "name": "52度舍得酒500ml",
+                "price": "438"
+            }
+        ],
+        "mainTop5": {
+            "topPic": "./images/290x160_3.jpg",
+            "top5List": [
+                {
+                    "rank": 1,
+                    "img": "./images/floor1_top1.jpg",
+                    "name": "52度西凤盛典酒（盛醇）500ml",
+                    "price": "77"
+                }
+            ]
+        },
+        "listImgs": [
+            {
+                "type": 1,
+                "lists": [
+                    {
+                        "imgs": "./images/floor1_list1_pic1.jpeg",
+                        "name": "贵州茅台酒53度1999年-2009年500ml组合装 各1瓶",
+                        "price": "70399.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list1_pic2.jpeg",
+                        "name": "1992年53度贵州茅台酒500ml",
+                        "price": "22,519.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list1_pic3.jpeg",
+                        "name": "1990年 贵州茅台酒500ml",
+                        "price": "24,199.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list1_pic4.jpeg",
+                        "name": "2002年贵州茅台酒 （五星） 53度500ml单瓶",
+                        "price": "6,599.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list1_pic5.jpeg",
+                        "name": "2004年贵州茅台酒 （五星） 53度500ml单瓶",
+                        "price": "6,000.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list1_pic6.jpeg",
+                        "name": "国乡荷花酒礼盒 53度 2017年 500ml*2瓶*5盒 整箱装",
+                        "price": "2,999.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list1_pic7.jpeg",
+                        "name": "茅台 汉酱 51度 白酒 500ml 单瓶装 口感酱香型",
+                        "price": "319.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list1_pic8.jpeg",
+                        "name": "【醉将】贵州荷花酒53度酱香型小瓶礼盒装纯粮十五年坤沙白酒整箱特价",
+                        "price": "228.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list1_pic9.jpeg",
+                        "name": "【醉将】贵州茅台镇头曲酱香型白酒53度八年坤沙整箱特价6瓶装陈酿纯粮老酒",
+                        "price": "198.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list1_pic10.jpeg",
+                        "name": "2015年贵州茅台酒 飞天茅台 53度500ml*12瓶整箱",
+                        "price": "40,800.00"
+                    }
+                ]
+            },
+            {
+                "type": 2,
+                "lists": [
+                    {
+                        "imgs": "./images/floor1_list2_pic1.png",
+                        "name": "【德国IF获奖产品】谷小酒红米粒45度100毫升+白米粒45度100毫升（2瓶）",
+                        "price": "45.90"
+                    },
+                    {
+                        "imgs": "./images/floor1_list2_pic2.jpeg",
+                        "name": "五粮液52度高度纯粮食白酒 一尊天下优品30 喜宴婚宴礼品酒 500ml*6瓶",
+                        "price": "388.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list2_pic3.jpeg",
+                        "name": "42度左孚高粱酒（传承）500ML",
+                        "price": "45.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list2_pic4.jpeg",
+                        "name": "左孚高粱酒（四款套餐）2000ML",
+                        "price": "189.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list2_pic5.jpeg",
+                        "name": "【一壶佳酿】光能小酒42度粮食酒浓香型白酒100ml",
+                        "price": "12.80"
+                    },
+                    {
+                        "imgs": "./images/floor1_list2_pic6.jpeg",
+                        "name": "【一壶佳酿】老白干与熊猫小酒组合装-感情搭配*2",
+                        "price": "12.90"
+                    },
+                    {
+                        "imgs": "./images/floor1_list2_pic7.jpeg",
+                        "name": "42度左孚高粱酒（融合）500ML",
+                        "price": "40.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list2_pic8.jpeg",
+                        "name": "52度左孚高粱酒（突破）500ML",
+                        "price": "168.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list2_pic9.jpeg",
+                        "name": "青岛特产流亭机场白酒飞机场原浆酒纯粮固态酿造52度浓香型十年陈酿5斤大桶高度泡药散装白酒",
+                        "price": "258.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list2_pic10.jpeg",
+                        "name": "青岛特产流亭机场白酒飞机场原浆酒纯粮固态酿造68度浓香型原酒露酒125m*4老酒礼盒装",
+                        "price": "138.00"
+                    }
+                ]
+            },
+            {
+                "type": 3,
+                "lists": [
+                    {
+                        "imgs": "./images/floor1_list3_pic1.png",
+                        "name": "江小白烟灰缸（赠品）",
+                        "price": "49.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list3_pic2.jpeg",
+                        "name": "壹起小酒单瓶装",
+                        "price": "15.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list3_pic3.jpeg",
+                        "name": "金门高粱酒 小黑金龙42度200ml*6瓶装固态发酵纯粮食白酒试饮 台湾高粱酒",
+                        "price": "258.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list3_pic4.jpeg",
+                        "name": "2012年老酒金门高粱酒58度台湾固态发酵纯粮食白酒 600ml*2瓶送礼",
+                        "price": "456.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list3_pic5.jpeg",
+                        "name": "金门高粱酒58度750ml 大白金龙台湾原瓶纯粮食白酒台湾伴手礼",
+                        "price": "198.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list3_pic6.jpeg",
+                        "name": "山西杏花村汾酒 42度青花20汾酒500mL礼盒装清香型纯粮国产白酒",
+                        "price": "378.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list3_pic7.jpeg",
+                        "name": "山西杏花村汾酒 42度20周年汾酒475ml*6瓶 整箱装礼盒装清香型白酒 享侨宝柑普茶一盒",
+                        "price": "1788.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list3_pic8.jpeg",
+                        "name": "杏花村晋裕公司2011年酿造陈年老酒清香型白酒45度整箱礼盒装大曲固态28天发酵粮食酒",
+                        "price": "1,608.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list3_pic9.jpeg",
+                        "name": "山西杏花村汾酒 48度青花30汾酒500mL礼盒装清香型国产白酒",
+                        "price": "618.00"
+                    },
+                    {
+                        "imgs": "./images/floor1_list3_pic10.jpeg",
+                        "name": "山西杏花村汾酒 42度老白汾酒15号475ml红盒清香型白酒",
+                        "price": "158.00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "葡萄酒",
+        "aside": [
+            "拉菲",
+            "小企鹅",
+            "奔富",
+            "杰卡斯"
+        ],
+        "allType": [
+            "热推",
+            "法国",
+            "澳大利亚",
+            "智利"
+        ],
+        "mainPic": [
+            {
+                "name": "拉菲",
+                "pic": "./images/floor2_main1.jpg",
+                "url": ""
+            },
+            {
+                "name": "奔富",
+                "pic": "./images/floor2_main2.jpg",
+                "url": ""
+            },
+            {
+                "name": "拉维亭",
+                "pic": "./images/floor2_main3.jpg",
+                "url": ""
+            },
+            {
+                "name": "守望堡",
+                "pic": "./images/floor2_main4.jpg",
+                "url": ""
+            },
+            {
+                "name": "巴黎之夜",
+                "pic": "./images/floor2_main5.jpg",
+                "url": ""
+            },
+            {
+                "name": "红魔鬼",
+                "pic": "./images/floor2_main6.jpg",
+                "url": ""
+            },
+            {
+                "name": "长城",
+                "pic": "./images/floor2_main7.jpg",
+                "url": ""
+            },
+            {
+                "name": "张裕",
+                "pic": "./images/floor2_main8.jpg",
+                "url": ""
+            }
+        ],
+        "mainList": [
+            {
+                "imgs": "./images/main_list_situyate.jpg",
+                "name": "西班牙斯图亚特赤霞珠干红葡萄酒750ml",
+                "price": "83.7"
+            },
+            {
+                "imgs": "./images/main_list_laweiting.jpg",
+                "name": "法国拉维亭波尔多橡木干红葡萄酒750ml",
+                "price": "284.3"
+            },
+            {
+                "imgs": "./images/main_list_xueliputao.jpg",
+                "name": "雪力葡萄猕猴桃酒500ML",
+                "price": "359"
+            },
+            {
+                "imgs": "./images/main_list_benfu.jpg",
+                "name": "澳大利亚奔富BIN389加本力（赤霞珠）设拉子干红葡萄酒750ml",
+                "price": "448.3"
+            },
+            {
+                "imgs": "./images/main_list_xueliputao2.jpg",
+                "name": "雪力葡萄树莓酒500ML",
+                "price": "123.3"
+            },
+            {
+                "imgs": "./images/main_list_lafeichuanqi.jpg",
+                "name": "法国拉菲传奇波尔多红葡萄酒750ml（新老包装发货）",
+                "price": "438"
+            }
+        ],
+        "mainTop5": {
+            "topPic": "./images/290x160_1.jpg",
+            "top5List": [
+                {
+                    "rank": 1,
+                    "img": "./images/floor2_top1.jpg",
+                    "name": "法国拉菲传说波尔多红葡萄酒（红标/蓝标）750ml",
+                    "price": "180.4"
+                },
+                {
+                    "rank": 2,
+                    "img": "./images/floor2_top2.jpg",
+                    "name": "智利巴缇图珍藏赤霞珠红葡萄酒750ml",
+                    "price": "149.8"
+                },
+                {
+                    "rank": 3,
+                    "img": "",
+                    "name": "伊珠阳光密度红葡萄酒720ml",
+                    "price": ""
+                },
+                {
+                    "rank": 4,
+                    "img": "",
+                    "name": "法国拉菲传奇波尔多红葡萄酒750ml（新老包装发货）",
+                    "price": ""
+                },
+                {
+                    "rank": 5,
+                    "img": "",
+                    "name": "法国拉菲奥希耶（奥斯叶）红葡萄酒750ml",
+                    "price": ""
+                }
+            ]
+        },
+        "listImgs": [
+            {
+                "type": 1,
+                "lists": [
+                    {
+                        "imgs": "./images/floor2_list1_pic1.png",
+                        "name": "神之系列法国原瓶原装进口双女神系列2支装",
+                        "price": "199.90"
+                    },
+                    {
+                        "imgs": "./images/floor2_list1_pic2.jpeg",
+                        "name": "法国波尔多产区原瓶进口AOC级红酒维诺庄园红葡萄",
+                        "price": "158.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list1_pic3.jpeg",
+                        "name": "法国原瓶高档红酒男爵干红葡萄酒双支皮盒",
+                        "price": "199.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list1_pic4.jpeg",
+                        "name": "【法国原瓶原装波尔多AOC】拉图斯古堡干红葡萄酒750ml*2瓶",
+                        "price": "189.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list1_pic5.png",
+                        "name": "【96分】法国神之系列神之阿波罗干红葡萄酒750ml",
+                        "price": "199.90"
+                    },
+                    {
+                        "imgs": "./images/floor2_list1_pic6.png",
+                        "name": "【9项国际大奖】法国神之系列神之波塞冬半干白葡萄酒",
+                        "price": "199.90"
+                    },
+                    {
+                        "imgs": "./images/floor2_list1_pic7.jpeg",
+                        "name": "法国原瓶进口AOC级十字城堡红葡萄酒",
+                        "price": "380.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list1_pic8.jpeg",
+                        "name": "法国原瓶进口AOC级优质红酒富瑞庄园红葡萄酒",
+                        "price": "220.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list1_pic9.jpeg",
+                        "name": "法国波尔多产区原瓶进口AOC级宝蒂罗特庄园红葡萄酒",
+                        "price": "99.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list1_pic10.png",
+                        "name": "帕达奇唯德城堡干红葡萄酒 750ml",
+                        "price": "519.00"
+                    }
+                ]
+            },
+            {
+                "type": 2,
+                "lists": [
+                    {
+                        "imgs": "./images/floor2_list2_pic1.jpeg",
+                        "name": "丘吉尔Church Hill 澳洲进口红酒 西拉子赤霞珠干红葡萄酒澳大利亚原瓶原装进口 单瓶装",
+                        "price": "129.90"
+                    },
+                    {
+                        "imgs": "./images/floor2_list2_pic2.jpeg",
+                        "name": "整箱2015年份麦赫恩岩道系列澳洲进口酒霞多丽酒庄珍酿白葡萄酒单支装网红甜酒M25",
+                        "price": "1,750.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list2_pic3.jpeg",
+                        "name": "2017年份麦赫恩岩道系列澳洲进口甜酒赛美容长相思单支装网红酒庄白葡萄酒",
+                        "price": "218.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list2_pic4.jpeg",
+                        "name": "2017年份麦赫恩海瑟系列澳洲进口红酒BDX珍酿酒庄红葡萄酒单支装网红酒MH1702",
+                        "price": "350.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list2_pic5.jpeg",
+                        "name": "2014年份麦赫恩岩道系列澳洲进口红酒赤霞珠梅洛红葡萄酒单支装红酒",
+                        "price": "238.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list2_pic6.jpeg",
+                        "name": "2015年份麦赫恩岩道系列澳洲进口红酒西拉酒庄珍酿红葡萄酒单支装网红酒MH1504",
+                        "price": "218.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list2_pic7.jpeg",
+                        "name": "整箱2017年份麦赫恩岩道系列澳洲进口甜酒赛美容长相思6支装网红酒庄白葡萄酒MH1701",
+                        "price": "1308.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list2_pic8.jpeg",
+                        "name": "【老藤西拉】澳洲巴罗萨谷老藤西拉葡萄酒红酒wine高档 Finca Dymond黛蒙庄园Shira",
+                        "price": "399.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list2_pic9.png",
+                        "name": "澳大利亚原装进口BIN2西拉干红葡萄酒单瓶装",
+                        "price": "68.00"
+                    },
+                    {
+                        "imgs": "./images/floor2_list2_pic10.jpeg",
+                        "name": "澳大利亚原瓶原装巨石帕史维赤霞珠红葡萄酒",
+                        "price": "488.00"
+                    }
+                ]
+            },
+            {
+                "type": 3,
+                "lists": [
+                    {
+                        "imgs": "./images/floor3_list3_pic1.png",
+                        "name": "佳沃Wild Swan （野天鹅）霞多丽干白",
+                        "price": "158.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic2.jpeg",
+                        "name": "智利巴缇图珍藏美乐红葡萄酒750ml",
+                        "price": "99.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic3.jpeg",
+                        "name": "佳沃O(圆满）美乐干红",
+                        "price": "158.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic4.jpeg",
+                        "name": "佳沃Wet Land 雅立（云雀）佳美娜干红",
+                        "price": "138.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic5.jpeg",
+                        "name": "佳沃Coyam干红",
+                        "price": "648.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic6.jpeg",
+                        "name": "佳沃Ge（极）干红",
+                        "price": "1818.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic7.jpeg",
+                        "name": "庄园捌号佳美娜干红葡萄酒",
+                        "price": "138.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic8.jpeg",
+                        "name": "佳沃O(圆满）佳美娜干红",
+                        "price": "158.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic9.jpeg",
+                        "name": "【智利原庄原瓶进口】佳沃Wet Land 雅立（云雀）赤霞珠干红",
+                        "price": "138.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic10.jpeg",
+                        "name": "佳沃O(圆满）霞多丽干白",
+                        "price": "158.00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "洋酒",
+        "aside": [
+            "尊尼获加",
+            "芝华士"
+        ],
+        "allType": [
+            "热推",
+            "人头马",
+            "伏特加",
+            "白兰地"
+        ],
+        "mainPic": [
+            {
+                "name": "翰格雅爵",
+                "pic": "./images/floor3_main1.jpg",
+                "url": ""
+            },
+            {
+                "name": "杰克丹尼",
+                "pic": "./images/floor3_main2.jpg",
+                "url": ""
+            },
+            {
+                "name": "深蓝伏特加",
+                "pic": "./images/floor3_main3.jpg",
+                "url": ""
+            },
+            {
+                "name": "轩尼诗",
+                "pic": "./images/floor3_main4.jpg",
+                "url": ""
+            },
+            {
+                "name": "人头马",
+                "pic": "./images/floor3_main5.jpg",
+                "url": ""
+            },
+            {
+                "name": "尊尼获加",
+                "pic": "./images/floor3_main6.jpg",
+                "url": ""
+            },
+            {
+                "name": "百龄坛",
+                "pic": "./images/floor3_main7.jpg",
+                "url": ""
+            },
+            {
+                "name": "温莎",
+                "pic": "./images/floor3_main8.jpg",
+                "url": ""
+            }
+        ],
+        "mainList": [
+            {
+                "imgs": "./images/main_list_hangeyajue.png",
+                "name": "翰格雅爵单一谷物苏格兰威士忌700ml",
+                "price": "159"
+            },
+            {
+                "imgs": "./images/main_list_jiekedanni.jpg",
+                "name": "40°杰克丹尼田纳西州威士忌700ml",
+                "price": "149"
+            },
+            {
+                "imgs": "./images/main_list_shenlan.jpg",
+                "name": "40°美国深蓝牌伏特加（原味）750ml",
+                "price": "67.7"
+            },
+            {
+                "imgs": "./images/main_list_xuannishi.jpg",
+                "name": "40°轩尼诗VSOP干邑白兰地700ml",
+                "price": "494.4"
+            },
+            {
+                "imgs": "./images/main_list_zhihuashi.jpg",
+                "name": "40°芝华士12年苏格兰威士忌700ml",
+                "price": "193"
+            },
+            {
+                "imgs": "./images/main_list_heifang.jpg",
+                "name": "40°尊尼获加（黑牌）威士忌700ml",
+                "price": "224.9"
+            }
+        ],
+        "mainTop5": {
+            "topPic": "./images/290x160_4.jpg",
+            "top5List": [
+                {
+                    "rank": 1,
+                    "img": "./images/floor3_top1.jpg",
+                    "name": "人头马诚印特优香槟干邑白兰地700ML酒（盛醇）500ml",
+                    "price": "1275.8"
+                },
+                {
+                    "rank": 2,
+                    "img": "./images/floor3_top2.jpg",
+                    "name": "泰斯卡风暴单一麦芽威士忌700ml",
+                    "price": "213.5"
+                },
+                {
+                    "rank": 3,
+                    "img": "",
+                    "name": "【五级庄副牌】法国小卡莫莎（卡门萨克副牌）干红葡萄酒750ml",
+                    "price": ""
+                },
+                {
+                    "rank": 4,
+                    "img": "",
+                    "name": "40°百加得白朗姆酒750ml",
+                    "price": ""
+                },
+                {
+                    "rank": 5,
+                    "img": "",
+                    "name": "40°/47°孟买蓝宝石金酒750ml【40°/47° 随机发货】",
+                    "price": ""
+                }
+            ]
+        },
+        "listImgs": [
+            {
+                "type": 1,
+                "lists": [
+                    {
+                        "imgs": "./images/floor3_list1_pic1.jpeg",
+                        "name": "40°人头马VSOP特优香槟干邑白兰地700ml",
+                        "price": "419.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list1_pic2.jpeg",
+                        "name": "40°人头马CLUB特优香槟干邑白兰地700ml",
+                        "price": "555.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list1_pic3.png",
+                        "name": "【限量版】人头马窖藏臻选之酒窖28优质香槟区干邑白兰地700ml",
+                        "price": "1,299.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list1_pic4.jpeg",
+                        "name": "2018年·人头马CLUB特优香槟干邑白兰地",
+                        "price": "555.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list1_pic5.jpeg",
+                        "name": "40°人头马天醇XO特优香槟干邑白兰地700ml",
+                        "price": "1468.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list1_pic6.jpeg",
+                        "name": "人头马VSOP特优香槟干邑白兰地酒办50ML",
+                        "price": "29.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list1_pic7.jpeg",
+                        "name": "人头马VSOP特优香槟干邑白兰地礼盒700ML",
+                        "price": "477.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list1_pic8.jpeg",
+                        "name": "2018年·人头马CLUB特优香槟干邑白兰地",
+                        "price": "555.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list1_pic9.png",
+                        "name": "2018年·人头马天醇XO特优香槟干邑白兰地700ML",
+                        "price": "1,468.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list1_pic10.jpeg",
+                        "name": "【限量版】人头马N28优质香槟区干邑白兰地700ml",
+                        "price": "1,299.00"
+                    }
+                ]
+            },
+            {
+                "type": 2,
+                "lists": [
+                    {
+                        "imgs": "./images/floor3_list2_pic1.jpeg",
+                        "name": "新年红伏特加+圣诞蓝伏特加组合装",
+                        "price": "268.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list2_pic2.jpeg",
+                        "name": "野兽伏特加500ML",
+                        "price": "118.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list2_pic3.jpeg",
+                        "name": "40°绝对伏特加（原味）700ml",
+                        "price": "85.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list2_pic4.jpeg",
+                        "name": "银沙皇伏特加（6瓶）",
+                        "price": "825.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list2_pic5.jpeg",
+                        "name": "野兽伏特加700ML",
+                        "price": "148.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list2_pic6.jpeg",
+                        "name": "野兽伏特加1L",
+                        "price": "178.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list2_pic7.jpeg",
+                        "name": "40º沙皇（金） 伏特加1.75L",
+                        "price": "538.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list2_pic8.jpeg",
+                        "name": "40º沙皇（银） 伏特加700ml",
+                        "price": "118.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list2_pic9.jpeg",
+                        "name": "银沙皇伏特加50ML*6",
+                        "price": "90.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list2_pic10.jpeg",
+                        "name": "维波罗瓦伏特加700ML",
+                        "price": "46.00"
+                    }
+                ]
+            },
+            {
+                "type": 3,
+                "lists": [
+                    {
+                        "imgs": "./images/floor3_list3_pic1.png",
+                        "name": "40°法国白兰地卡佩王朝VSOP白兰地700ML",
+                        "price": "88.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic2.jpeg",
+                        "name": "法国进口40°法国白兰地路易十二尊享XO白兰地700ML",
+                        "price": "339.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic3.jpeg",
+                        "name": "法国进口40°法国白兰地路易王朝珍品XO白兰地700ML",
+                        "price": "399.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic4.jpeg",
+                        "name": "法国进口ROYAL珍品XO白兰地生命之水",
+                        "price": "368.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic5.jpeg",
+                        "name": "人头马路易十三干邑白兰地700ML",
+                        "price": "21,888.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic6.jpeg",
+                        "name": "2018年·人头马CLUB特优香槟干邑白兰地",
+                        "price": "555.00"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic7.jpeg",
+                        "name": "高地XO 白兰地 法国原液高地洋酒 200mL单瓶",
+                        "price": "79.90"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic8.jpeg",
+                        "name": "高地XO 白兰地 法国原液高地洋酒 200mL*2",
+                        "price": "99.90"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic9.jpeg",
+                        "name": "高地（AureleMarcot）VSOP白兰地 法国原液高地洋酒 700mL",
+                        "price": "129.90"
+                    },
+                    {
+                        "imgs": "./images/floor3_list3_pic10.jpeg",
+                        "name": "高地（AureleMarcot）XO白兰地 法国原液高地洋酒 ",
+                        "price": "476.00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "啤酒",
+        "aside": [
+            "百威",
+            "科罗娜",
+            "菲得堡"
+        ],
+        "allType": [
+            "热推",
+            "啤酒专区"
+        ],
+        "mainPic": [
+            {
+                "name": "凯旋1664",
+                "pic": "./images/floor4_main1.jpg",
+                "url": ""
+            },
+            {
+                "name": "百威",
+                "pic": "./images/floor4_main2.jpg",
+                "url": ""
+            },
+            {
+                "name": "开巴",
+                "pic": "./images/floor4_main3.jpg",
+                "url": ""
+            },
+            {
+                "name": "歌德",
+                "pic": "./images/floor4_main4.jpg",
+                "url": ""
+            },
+            {
+                "name": "凯尔特人",
+                "pic": "./images/floor4_main5.jpg",
+                "url": ""
+            },
+            {
+                "name": "德拉克",
+                "pic": "./images/floor4_main6.jpg",
+                "url": ""
+            },
+            {
+                "name": "凯撒",
+                "pic": "./images/floor4_main7.jpg",
+                "url": ""
+            },
+            {
+                "name": "科罗娜",
+                "pic": "./images/floor4_main8.jpg",
+                "url": ""
+            }
+        ],
+        "mainList": [
+            {
+                "imgs": "./images/main_list_f4_1.png",
+                "name": "百威啤酒听装500ml三联包（新老包装随机发货）",
+                "price": "28.2"
+            },
+            {
+                "imgs": "./images/main_list_f4_2.jpg",
+                "name": "科罗娜啤酒330m 6瓶（新老包装随机配送）",
+                "price": "73.7"
+            },
+            {
+                "imgs": "./images/main_list_f4_4.png",
+                "name": "罗斯福（夫）6号修道院啤酒330ml",
+                "price": "16"
+            },
+            {
+                "imgs": "./images/main_list_f4_5.jpg",
+                "name": "林德曼苹果啤酒250ml",
+                "price": "14"
+            },
+            {
+                "imgs": "./images/main_list_shede.jpg",
+                "name": "智美红帽修道院啤酒330ML",
+                "price": "14"
+            }
+        ],
+        "mainTop5": {
+            "topPic": "./images/290x160_2.jpg",
+            "top5List": [
+                {
+                    "rank": 1,
+                    "img": "./images/floor4_top1.jpg",
+                    "name": "比利时督威啤酒330ml",
+                    "price": "22.5"
+                },
+                {
+                    "rank": 2,
+                    "img": "./images/floor4_top2.jpg",
+                    "name": "喜力啤酒瓶装330ml",
+                    "price": "7.9"
+                }
+            ]
+        },
+        "listImgs": [
+            {
+                "type": 1,
+                "lists": [
+                    {
+                        "imgs": "./images/floor4_list1_pic1.jpeg",
+                        "name": "重庆十七门精酿啤酒拉罐500ml*12听整箱",
+                        "price": "85.80"
+                    },
+                    {
+                        "imgs": "./images/floor4_list1_pic2.jpeg",
+                        "name": "百威啤酒听装500ml三联包（新老包装随机发货）",
+                        "price": "16.50"
+                    },
+                    {
+                        "imgs": "./images/floor4_list1_pic3.jpeg",
+                        "name": "墨西哥科罗娜啤酒330m 6瓶",
+                        "price": "34.50"
+                    },
+                    {
+                        "imgs": "./images/floor4_list1_pic4.jpeg",
+                        "name": "沃夫狼啤精酿啤酒艾尔组合澳式艾尔APA+美式艾尔奶油风味568ml*6听装",
+                        "price": "115.80"
+                    },
+                    {
+                        "imgs": "./images/floor4_list1_pic5.jpeg",
+                        "name": "十七门精酿原浆啤酒（朝天门版）1L装 2瓶",
+                        "price": "136.00"
+                    },
+                    {
+                        "imgs": "./images/floor4_list1_pic6.jpeg",
+                        "name": "康文教堂-修道士三料（生啤1000ml）",
+                        "price": "88.00"
+                    },
+                    {
+                        "imgs": "./images/floor4_list1_pic7.jpeg",
+                        "name": "黄金骏马啤酒听装500ml",
+                        "price": "5.00"
+                    },
+                    {
+                        "imgs": "./images/floor4_list1_pic8.jpeg",
+                        "name": "康文教堂-修道士白啤(生啤500ml)",
+                        "price": "44.00"
+                    },
+                    {
+                        "imgs": "./images/floor4_list1_pic9.jpeg",
+                        "name": "康文教堂-修道士四料（生啤500ml）",
+                        "price": "60.00"
+                    },
+                    {
+                        "imgs": "./images/floor4_list1_pic10.jpeg",
+                        "name": "康文教堂-修道士金啤（生啤1000ml）",
+                        "price": "88.00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "其他酒",
+        "aside": [
+            "古越龙山",
+            "稽山鉴水",
+            "古南丰"
+        ],
+        "allType": [
+            "热推",
+            "稽山鉴水"
+        ],
+        "mainPic": [
+            {
+                "name": "古越龙山",
+                "pic": "./images/floor5_main1.jpg",
+                "url": ""
+            },
+            {
+                "name": "俞阿狗",
+                "pic": "./images/floor5_main2.jpg",
+                "url": ""
+            },
+            {
+                "name": "越之春",
+                "pic": "./images/floor5_main3.jpg",
+                "url": ""
+            },
+            {
+                "name": "稽山鉴水",
+                "pic": "./images/floor5_main4.jpg",
+                "url": ""
+            }
+        ],
+        "mainList": [
+            {
+                "imgs": "./images/main_list_f5_1.jpg",
+                "name": "11度古南丰干黄520ml",
+                "price": "118"
+            },
+            {
+                "imgs": "./images/main_list_f5_2.jpg",
+                "name": "稽山鉴水·明500ml",
+                "price": "26.8"
+            },
+            {
+                "imgs": "./images/main_list_f5_3.jpg",
+                "name": "稽山鉴水·唐500ml",
+                "price": "83.6"
+            },
+            {
+                "imgs": "./images/main_list_f5_4.jpg",
+                "name": "稽山鉴水100",
+                "price": "83.6"
+            },
+            {
+                "imgs": "./images/main_list_f5_5.jpg",
+                "name": "稽山鉴水300",
+                "price": "177.9"
+            }
+        ],
+        "mainTop5": {
+            "topPic": "./images/290x160_5.jpg",
+            "top5List": [
+                {
+                    "rank": 1,
+                    "img": "./images/floor5_top1.jpg",
+                    "name": "古越龙山14度古越太雕酒370ml",
+                    "price": "35"
+                },
+                {
+                    "rank": 2,
+                    "img": "./images/floor5_top2.jpg",
+                    "name": "古南丰金六年花雕酒 500ml",
+                    "price": "23"
+                }
+            ]
+        },
+        "listImgs": [
+            {
+                "type": 1,
+                "lists": [
+                    {
+                        "imgs": "./images/floor5_list1_pic1.jpeg",
+                        "name": "稽山鉴水300",
+                        "price": "176.00"
+                    },
+                    {
+                        "imgs": "./images/floor5_list1_pic2.jpeg",
+                        "name": "稽山鉴水·春秋",
+                        "price": "288.00"
+                    },
+                    {
+                        "imgs": "./images/floor5_list1_pic3.jpeg",
+                        "name": "稽山鉴水·明500ml",
+                        "price": "22.00"
+                    },
+                    {
+                        "imgs": "./images/floor5_list1_pic4.jpeg",
+                        "name": "稽山鉴水·唐500ml",
+                        "price": "45.00"
+                    },
+                    {
+                        "imgs": "./images/floor5_list1_pic5.jpeg",
+                        "name": "稽山鉴水100",
+                        "price": "78.00"
+                    },
+                    {
+                        "imgs": "./images/floor5_list1_pic6.jpeg",
+                        "name": "稽山鉴水600",
+                        "price": "288.00"
+                    },
+                    {
+                        "imgs": "./images/floor5_list1_pic7.jpeg",
+                        "name": "稽山鉴水·宋500ml",
+                        "price": "64.60"
+                    },
+                    {
+                        "imgs": "./images/floor5_list1_pic8.jpeg",
+                        "name": "稽山鉴水100",
+                        "price": "83.60"
+                    },
+                    {
+                        "imgs": "./images/floor5_list1_pic9.jpeg",
+                        "name": "稽山鉴水·明500ml",
+                        "price": "26.80"
+                    },
+                    {
+                        "imgs": "./images/floor5_list1_pic10.jpeg",
+                        "name": "稽山鉴水·唐500ml",
+                        "price": "83.60"
+                    }
+                ]
+            }
+        ]
+    }
+]

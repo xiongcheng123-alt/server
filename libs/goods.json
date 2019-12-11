@@ -1,0 +1,327 @@
+[
+    {
+        "id": 1,
+        "name": "53度王茅酒（百年印象）500ml",
+        "price": 188,
+        "marketPrice": 339,
+        "picList": [
+            "./images/goods1_picList1.jpeg",
+            "./images/goods1_picList2.jpeg",
+            "./images/goods1_picList3.jpeg",
+            "./images/goods1_picList4.jpeg",
+            "./images/goods1_picList5.jpeg"
+        ],
+        "stock": 697,
+        "storeName": "11.11狂欢内购会",
+        "storePic": "./images/goods1_storePic.png",
+        "goodsPic": [
+            "./images/goods1_goodsPic1.jpeg",
+            "./images/goods1_goodsPic2.jpeg",
+            "./images/goods1_goodsPic3.jpeg",
+            "./images/goods1_goodsPic4.jpeg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "50°白云边清香大坛装酒1500ml",
+        "price": 180.6,
+        "marketPrice": 258,
+        "picList": [
+            "./images/goods2_picList1.jpeg",
+            "./images/goods2_picList2.jpeg",
+            "./images/goods2_picList3.jpeg",
+            "./images/goods2_picList4.jpeg"
+        ],
+        "stock": 50,
+        "storeName": "酒淘酒类专营店",
+        "storePic": "./images/goods2_storePic.png",
+        "goodsPic": [
+            "./images/goods2_goodsPic1.jpeg",
+            "./images/goods2_goodsPic2.jpeg",
+            "./images/goods2_goodsPic3.jpeg",
+            "./images/goods2_goodsPic4.jpeg",
+            "./images/goods2_goodsPic5.jpeg",
+            "./images/goods2_goodsPic6.jpeg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "52度泸州老酒坊红粱香500ml",
+        "price": 29,
+        "marketPrice": 49,
+        "picList": [
+            "./images/goods3_picList1.jpeg"
+        ],
+        "stock": 5260,
+        "storeName": "11.11狂欢内购会",
+        "storePic": "./images/goods1_storePic.png",
+        "goodsPic": [
+            "./images/goods3_goodsPic1.jpeg",
+            "./images/goods3_goodsPic2.jpeg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "50度伊力老窖新一代窖藏1000ml*6瓶整箱伊力特白酒",
+        "price": 1888,
+        "marketPrice": 2588,
+        "picList": [
+            "./images/goods4_picList1.jpeg",
+            "./images/goods4_picList2.jpeg",
+            "./images/goods4_picList3.jpeg",
+            "./images/goods4_picList4.jpeg"
+        ],
+        "stock": 10,
+        "storeName": "酒淘酒类专营店",
+        "storePic": "./images/goods2_storePic.png",
+        "goodsPic": [
+            "./images/goods4_goodsPic1.jpeg",
+            "./images/goods4_goodsPic2.jpeg",
+            "./images/goods4_goodsPic3.jpeg",
+            "./images/goods4_goodsPic4.jpeg",
+            "./images/goods4_goodsPic5.jpeg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "50度伊力特纪念版陶坛1500ML大坛白酒建厂60周年纪念",
+        "price": 219,
+        "marketPrice": 358,
+        "picList": [
+            "./images/goods5_picList1.jpeg",
+            "./images/goods5_picList2.jpeg",
+            "./images/goods5_picList3.jpeg",
+            "./images/goods5_picList4.jpeg"
+        ],
+        "stock": 100,
+        "storeName": "酒淘酒类专营店",
+        "storePic": "./images/goods2_storePic.png",
+        "goodsPic": [
+            "./images/goods5_goodsPic1.jpeg",
+            "./images/goods5_goodsPic2.jpeg",
+            "./images/goods5_goodsPic3.jpeg",
+            "./images/goods5_goodsPic4.jpeg",
+            "./images/goods5_goodsPic5.jpeg",
+            "./images/goods5_goodsPic6.jpeg",
+            "./images/goods5_goodsPic7.jpeg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "50度中华杜康T9酒500ml",
+        "price": 86,
+        "marketPrice": 228,
+        "picList": [
+            "./images/goods6_picList1.jpeg",
+            "./images/goods6_picList2.jpeg"
+        ],
+        "stock": 91,
+        "storeName": "11.11狂欢内购会",
+        "storePic": "./images/goods1_storePic.png",
+        "goodsPic": [
+            "./images/goods6_goodsPic1.jpeg",
+            "./images/goods6_goodsPic2.jpeg",
+            "./images/goods6_goodsPic3.jpeg",
+            "./images/goods6_goodsPic4.jpeg",
+            "./images/goods6_goodsPic5.jpeg",
+            "./images/goods6_goodsPic6.jpeg",
+            "./images/goods6_goodsPic7.jpeg",
+            "./images/goods6_goodsPic8.jpeg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "53度青花郎500ML（2018年）",
+        "price": 998,
+        "marketPrice": 1198,
+        "picList": [
+            "./images/goods7_picList1.jpeg",
+            "./images/goods7_picList2.jpeg",
+            "./images/goods7_picList3.jpeg",
+            "./images/goods7_picList4.jpeg",
+            "./images/goods7_picList5.jpeg"
+        ],
+        "stock": 2009,
+        "storeName": "郎酒品牌专区",
+        "storePic": "./images/goods7_storePic.png",
+        "goodsPic": [
+            "./images/goods7_goodsPic1.jpeg",
+            "./images/goods7_goodsPic2.jpeg",
+            "./images/goods7_goodsPic3.jpeg",
+            "./images/goods7_goodsPic4.jpeg",
+            "./images/goods7_goodsPic5.jpeg"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "62度贵州鸭溪窖甲子窖500ML X200箱",
+        "price": 576000,
+        "marketPrice": 1198800,
+        "picList": [
+            "./images/goods8_picList1.jpeg",
+            "./images/goods8_picList2.jpeg",
+            "./images/goods8_picList3.jpeg",
+            "./images/goods8_picList4.jpeg"
+        ],
+        "stock": 10,
+        "storeName": "贵州鸭溪窖旗舰店",
+        "storePic": "./images/goods1_storePic.png",
+        "goodsPic": [
+            "./images/goods8_goodsPic1.jpeg",
+            "./images/goods8_goodsPic2.jpeg"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "2007年 贵州茅台酒 （五星） 53度500ml单瓶",
+        "price": 4736,
+        "marketPrice": 4999,
+        "picList": [
+            "./images/goods9_picList1.jpeg",
+            "./images/goods9_picList2.jpeg",
+            "./images/goods9_picList3.jpeg",
+            "./images/goods9_picList4.jpeg"
+        ],
+        "stock": 4,
+        "storeName": "老酒旗舰店",
+        "storePic": "./images/goods9_storePic.png",
+        "goodsPic": [
+            "./images/goods9_goodsPic1.jpeg",
+            "./images/goods9_goodsPic2.jpeg",
+            "./images/goods9_goodsPic3.jpeg",
+            "./images/goods9_goodsPic4.jpeg",
+            "./images/goods9_goodsPic5.jpeg"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "法国原瓶进口巴顿德拉芙庄园干红葡萄酒750ml",
+        "price": 1680,
+        "marketPrice": 2106,
+        "picList": [
+            "./images/goods10_picList1.jpeg",
+            "./images/goods10_picList2.jpeg",
+            "./images/goods10_picList3.jpeg"
+        ],
+        "stock": 697,
+        "storeName": "鲁比纳葡萄酒官方旗舰店",
+        "storePic": "./images/goods10_storePic.png",
+        "goodsPic": [
+            "./images/goods1_goodsPic1.jpeg",
+            "./images/goods1_goodsPic2.jpeg",
+            "./images/goods1_goodsPic3.jpeg",
+            "./images/goods1_goodsPic4.jpeg",
+            "./images/goods1_goodsPic5.jpeg",
+            "./images/goods1_goodsPic6.jpeg",
+            "./images/goods1_goodsPic7.jpeg",
+            "./images/goods1_goodsPic8.jpeg",
+            "./images/goods1_goodsPic9.jpeg"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "观云流浪地球定制款白酒 希望款浓香纯粮酿造52度礼盒装500mL",
+        "price": 360,
+        "marketPrice": 559,
+        "picList": [
+            "./images/goods11_picList1.jpeg",
+            "./images/goods11_picList2.jpeg",
+            "./images/goods11_picList3.jpeg",
+            "./images/goods11_picList4.jpeg"
+        ],
+        "stock": 1000,
+        "storeName": "观云旗舰店",
+        "storePic": "./images/goods11_storePic.png",
+        "goodsPic": [
+            "./images/goods11_goodsPic1.jpeg",
+            "./images/goods11_goodsPic2.jpeg"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "佳沃Bonnet Classic（勃纳城堡）干红",
+        "price": 288,
+        "marketPrice": 288,
+        "picList": [
+            "./images/goods12_picList1.jpeg",
+            "./images/goods12_picList2.jpeg",
+            "./images/goods12_picList3.jpeg",
+            "./images/goods12_picList4.jpeg"
+        ],
+        "stock": 888,
+        "storeName": "佳沃葡萄酒旗舰店",
+        "storePic": "./images/goods12_storePic.png",
+        "goodsPic": [
+            "./images/goods12_goodsPic1.jpeg",
+            "./images/goods12_goodsPic2.jpeg",
+            "./images/goods12_goodsPic3.jpeg",
+            "./images/goods12_goodsPic4.jpeg",
+            "./images/goods12_goodsPic5.jpeg"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "泸州老窖大曲酒 52度 2014年 500ml*12瓶 整箱装",
+        "price": 3780,
+        "marketPrice": 3999,
+        "picList": [
+            "./images/goods13_picList1.jpeg",
+            "./images/goods13_picList2.jpeg",
+            "./images/goods13_picList3.jpeg",
+            "./images/goods13_picList4.jpeg"
+        ],
+        "stock": 3,
+        "storeName": "老酒旗舰店",
+        "storePic": "./images/goods9_storePic.png",
+        "goodsPic": [
+            "./images/goods13_goodsPic1.jpeg",
+            "./images/goods13_goodsPic2.jpeg"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "赊店老酒赊店福酒50度500ml浓香型白酒红盒装单瓶",
+        "price": 49.9,
+        "marketPrice": 88,
+        "picList": [
+            "./images/goods14_picList1.jpeg",
+            "./images/goods14_picList2.jpeg",
+            "./images/goods14_picList3.jpeg",
+            "./images/goods14_picList4.jpeg"
+        ],
+        "stock": 99,
+        "storeName": "酒淘酒类专营店",
+        "storePic": "./images/goods2_storePic.png",
+        "goodsPic": [
+            "./images/goods14_goodsPic1.jpeg",
+            "./images/goods14_goodsPic2.jpeg",
+            "./images/goods14_goodsPic3.jpeg",
+            "./images/goods14_goodsPic4.jpeg",
+            "./images/goods14_goodsPic5.jpeg"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "沃夫狼啤小麦白啤酒568ml*12听",
+        "price": 128.9,
+        "marketPrice": 184.9,
+        "picList": [
+            "./images/goods15_picList1.jpeg",
+            "./images/goods15_picList2.jpeg",
+            "./images/goods15_picList3.jpeg",
+            "./images/goods15_picList4.jpeg"
+        ],
+        "stock": 500,
+        "storeName": "沃夫狼啤精酿啤酒旗舰店",
+        "storePic": "./images/goods15_storePic.png",
+        "goodsPic": [
+            "./images/goods15_goodsPic1.jpeg",
+            "./images/goods15_goodsPic2.jpeg",
+            "./images/goods15_goodsPic3.jpeg",
+            "./images/goods15_goodsPic4.jpeg",
+            "./images/goods15_goodsPic5.jpeg",
+            "./images/goods15_goodsPic6.jpeg",
+            "./images/goods15_goodsPic7.jpeg"
+        ]
+    }
+]
