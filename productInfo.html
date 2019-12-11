@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>商品列表</title>
+    <link rel="stylesheet" href="./css/public.css">
+    <link rel="stylesheet" href="./css/project.css">
+    <link rel="stylesheet" href="./css/productInfo.css">
+</head>
+
+<body>
+    <header></header>
+    <section id="main">
+        <div class="global-center">
+            <div id="product-intro">
+                <div class="product-content-left">
+                    <div class="bigImg">
+                        <img src="./images/goods11_picList1.jpeg" alt="">
+                        <div class="glass">
+                            
+                        </div>
+                        <div class="right-view">
+                            <img src="./images/goods11_picList1.jpeg" alt="">
+                        </div>
+                    </div>
+                    <div class="smallImg">
+                        <ul>
+                            <li class="active">
+                                <img src="./images/goods11_picList1.jpeg" alt="">
+
+                            </li>
+                            <li>
+                                <img src="./images/goods11_picList2.jpeg" alt="">
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="product-content-right">
+                    <div class="productName">
+                        <p>2016年53度贵州茅台酒500ml</p>
+                    </div>
+                    <div class="productPrice">
+                        <div class="marketPrice">
+                            <p>市场价</p>
+                            <span class="price-icon">￥</span><span class="price-num">456</span>
+                        </div>
+                        <div class="nowPrice">
+                            <p>1919售价</p>
+                            <span class="price-icon">￥</span><span class="price-num">123</span>
+                        </div>
+                    </div>
+                    <div class="oprate">
+                        <div class="shopCarNum clear">
+                            <div class="dt dt-color">
+                                <span class="dt-specing">数量：</span>
+                            </div>
+                            <div class="dt dt-number">
+                                <span class="tb-stock">
+                                    <a id="decNum"></a>
+                                    <input id="pushNum" type="text" value="1" title="请输入购买量">
+                                    <a id="addNum"></a>
+                                </span>
+                                <p class="last">
+                                    库存(<span class="lastNum">53</span>)
+                                </p>
+                            </div>
+                        </div>
+                        <div class="addShopCar">
+                            <a class="addCar">
+                                <i class="shopCar-icon"></i>
+                                <span>加入购物车</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="product-information" class="clear">
+                <div class="storeInfo">
+                    <div class="myStore">
+                        <div class="storeImg">
+                            <a><img src="./images/goods11_storePic.png" alt=""></a>
+                        </div>
+                        <p class="storeName">
+                            <span class="storeNameText">老酒旗舰店<i class="storeIcon"></i></span>
+                        </p>
+                    </div>
+                    <div class="store-oprate">
+                        <a class="addStore">收藏店铺</a>
+                        <a class="toStore">进入店铺</a>
+                    </div>
+                </div>
+                <div class="productAllInfo">
+                    <div class="information-title">
+                        <ul>
+                            <li><a class="global-link active" href="">商品介绍</a></li>
+                            <li><a class="global-link" href="">参数规格</a></li>
+                            <li><a class="global-link" href="">售后保障</a></li>
+                            <li><a class="global-link" href="">商品评价</a></li>
+                        </ul>
+                    </div>
+                    <div id="information-img">
+                        <img src="./images/goods12_goodsPic1.jpeg" alt="">
+                        <img src="./images/goods12_goodsPic2.jpeg" alt="">
+                        <img src="./images/goods12_goodsPic3.jpeg" alt="">
+                        <img src="./images/goods12_goodsPic4.jpeg" alt="">
+                        <img src="./images/goods12_goodsPic5.jpeg" alt="">
+                    </div>
+                    <div id="after-sale">
+                        <div class="after-sale-title">
+                            <p>售后保障</p>
+                        </div>
+                        <img src="./images/shuoming2.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer></footer>
+</body>
+
+<script src="./libs/ajax.js"></script>
+<script src="./libs/cookie.js"></script>
+<script src="./libs/jquery.js"></script>
+<script>
+    $("header").load("http://localhost/MyProject/public.html #header");
+    $("footer").load("http://localhost/MyProject/public.html #footer");
+</script>
+<script src="./js/public.js"></script>
+<script src="./js/productInfo.js"></script>
+
+</html>
