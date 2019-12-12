@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>购物车</title>
+    <link rel="stylesheet" href="./css/public.css">
+    <link rel="stylesheet" href="./css/project.css">
+    <link rel="stylesheet" href="./css/shopCar.css">
+</head>
+
+<body>
+    <header></header>
+    <section id="main">
+        <div class="global-center">
+            <div id="shopCar">
+                <div id="shopCar-title">
+                    <span class="th-checkAll">
+                        <input type="checkbox" class="checkAll" id="checkAll" name="checkAll">
+                        <label for="checkAll">全选</label>
+                    </span>
+                    <span class="th-goods">商品</span>
+                    <span class="th-price">单价</span>
+                    <span class="th-number">数量</span>
+                    <span class="th-total">小计</span>
+                    <span class="th-oprate">操作</span>
+                </div>
+                <div id="shopCar-list">
+                    <ul>
+                        <li>
+                            <dl>
+                                <dd class="check">
+                                    <input type="checkbox">
+                                </dd>
+                                <dd class="image">
+                                    <a href=""><img src="./images/goods11_picList1.jpeg" alt=""></a>
+                                </dd>
+                                <dd class="information">
+                                    <p><a href="" class="global-link">这是名字width</a></p>
+                                </dd>
+                                <dd class="price"><span>￥123</span></dd>
+                                <dd class="number">
+                                    <span class="tb-stock">
+                                        <a class="decNum"></a>
+                                        <input class="pushNum" type="text" value="1" title="请输入购买量">
+                                        <a class="addNum"></a>
+                                    </span>
+                                    <div>库存123</div>
+                                </dd>
+                                <dd class="totalnum">
+                                    <span><i class="price-icon">￥</i><i class="price-num">123</i></span>
+                                </dd>
+                                <dd class="oprate">
+                                    <span class="global-link deleteThis">删除</span>
+                                </dd>
+                            </dl>
+                        </li>
+                    </ul>
+                    </dd>
+                </div>
+                <div id="shopCar-foot">
+                    <span class="tf-checkAll">
+                        <input type="checkbox" class="checkAll" id="checkAll2" name="checkAll">
+                        <label for="checkAll">全选</label>
+                    </span>
+                    <span class="tf-delSel"><i class=" global-link">删除选中</i></span>
+                    <span class="tf-totalNum">共计：<span class="totalNumber">10</span> 件商品</span>
+                    <span class="tf-totalPrice">合计：<span class="totalPrice">￥12300</span></span>
+                    <span class="tf-toPay">去结算</span>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer></footer>
+</body>
+<script src="./libs/ajax.js"></script>
+<script src="./libs/cookie.js"></script>
+<script src="./libs/jquery.js"></script>
+<script>
+    $("header").load("http://localhost/MyProject/public.html #header", function () {
+        $(".leftLogo").eq(1).html("<h1 style='line-height:75px;font-size:30px; text-align:center'>购物车</h1>");
+    });
+    $("footer").load("http://localhost/MyProject/public.html #footer");
+</script>
+<script src="./js/public.js"></script>
+<script src="./js/shopCar.js"></script>
+
+</html>
