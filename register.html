@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>1919酒类直供-注册</title>
+    <link rel="stylesheet" href="./css/public.css">
+    <link rel="stylesheet" href="./css/project.css">
+    <link rel="stylesheet" href="./css/register.css">
+</head>
+
+<body>
+    <header>
+        <div class="global-center clear">
+            <div id="head-left-box">
+                <div class="leftLogo">
+                    <a href="index.html"><img src="./images/1919logo.png" alt=""></a>
+                </div>
+            </div>
+            <div id="head-right-box">
+                <a href="index.html" class="global-link welcome">欢迎光临1919酒类直供!</a>
+            </div>
+    </header>
+    <main>
+        <div class="global-center clear">
+            <div class="user-register">
+                <div class="register-title">
+                    <a href="" class="global-link register-title-link">会员注册</a>
+                </div>
+                <div class="register-box">
+                    <div class="username">
+                        <i class="register-icon"></i><input type="text" id="username" placeholder="请输入用户名/手机号">
+                    </div>
+                    <div class="password">
+                        <i class="register-icon"></i><input type="password" id="password" placeholder="请输入登录密码">
+                    </div>
+                    <div class="repassword">
+                        <i class="register-icon"></i><input type="password" id="repassword" placeholder="请确认密码">
+                    </div>
+                    <div class="verification">
+                        <div class="verificationInput">
+                            <i class="register-icon"></i><input type="text" id="verification" placeholder="请输入右侧验证码">
+                        </div>
+                        <div class="verificationImg">
+                            <canvas id="myCanvas" width="70px" height="27px"
+                                style="float: right; border:1px solid #d3d3d3;"></canvas>
+                        </div>
+                    </div>
+                </div>
+                <div class="register-btn">
+                    <input type="button" value="注册" id="register-btn">
+                </div>
+                <div class="register-bottom">
+                    <span>还没有账号？</span><a href="login.html">去登陆</a>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+</body>
+<script src="./libs/cookie.js"></script>
+<script src="./libs/ajax.js"></script>
+<script src="./libs/jquery.js"></script>
+<script>
+    $("footer").load("http://localhost/MyProject/public.html #footer")
+</script>
+<script src="./js/public.js"></script>
+<script src="./js/register.js"></script>
+
+</html>
